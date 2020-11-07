@@ -40,9 +40,6 @@
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/mangodb.png" />
-<img align="left" alt="Git" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <br />
 <img align="left" alt="MongoDB" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/mangodb.png" />
 <img align="left" alt="Git" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/github.png" />
