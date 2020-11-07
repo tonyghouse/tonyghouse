@@ -26,6 +26,7 @@
 <br />
  
  ---
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="C" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/c.png" />
@@ -46,7 +47,7 @@
 <br />
 <br />
  ---
-
+<br />
 ### :zap: Github Stats
  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
 <br />
@@ -57,6 +58,7 @@
 <br />
 <br />
  ---
+<br />
 
 ### :clock10: Recent Activity
 
@@ -68,8 +70,6 @@
 5. 💪 Opened PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 <!--END_SECTION:activity-->
 <br />
-
----
 
 [website]: https://about.me/tonyghouse
 [twitter]: https://twitter.com/tonyghouse
