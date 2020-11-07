@@ -5,7 +5,7 @@
 
 ## I'm a Computer science Grad, App developer, Competitive programmer!
 
-- 🔭 I’m currently working on a [https://github.com/tonyghouse/][website]!
+- 🔭 I’m currently working on a [Personal Projects][gitprojects]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -70,6 +70,7 @@
 [instagram]: https://instagram.com/tonyghouse
 [linkedin]: https://linkedin.com/in/tonyghouse
 [facebook]:https://facebook.com/realtonyghouse
+[gitprojects]:https://github.com/tonyghouse?tab=repositories
 
 
 <!--
