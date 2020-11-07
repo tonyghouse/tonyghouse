@@ -25,7 +25,6 @@
 [<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br/>
 ---
-</br>
 
 ### Languages and Tools:
 <img align="left" alt="C" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/c.png" />
@@ -43,13 +42,16 @@
 <img align="left" alt="GitHub" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 <br/>
+
 ---
-</br>
-:zap: Github Stats<br/>
+:zap: Github Stats
  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /><br/>
+ <br/>
+  <br/>
 <br/>
----
-</br>
+   
+ ---
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
