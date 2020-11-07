@@ -1,14 +1,14 @@
 ### Hi there, I'm Ghouse - aka [TonyGhouse][website] 👋
 
-[![Website](https://img.shields.io/website?label=tonyghouse.com&style=for-the-badge&url=https%3A%2F%2Ftonyghouse.com)](https://tonyghouse.com)
+[![Website](https://img.shields.io/website?label=tonyghouse.com&style=for-the-badge&url=https%3A%2F%2Ftonyghouse.com)](https://about.me/tonyghouse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/tonyghouse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftonyghouse&screen_name=tonyghouse)
 
-## I'm an Engineer, Business owner, Developer!
+## I'm a Computer science Grad, App developer, Competitive programmer!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and play video games
 
 ### Spotify Playing 🎧
