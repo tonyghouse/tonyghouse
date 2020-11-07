@@ -24,6 +24,7 @@
 [<img align="left" alt="tonyghouse | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] <br />
 <br />
+ 
  ---
 
 ### Languages and Tools:
@@ -46,6 +47,8 @@
 
 ### :zap: Github Stats
  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
+<br />
+<br />
 <br />
 <br />
 <br />
