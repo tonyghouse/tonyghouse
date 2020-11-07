@@ -51,14 +51,16 @@
 
 ---
 <br/>
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
-
+1. 💪 Opened PR [#2050](https://github.com/webpack/webpack-cli/pull/2050) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+2. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+3. 🗣 Commented on [#2021](https://github.com/webpack/webpack-cli/issues/2021) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
+4. 💪 Opened PR [#18833](https://github.com/vercel/next.js/pull/18833) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🎉 Merged PR [#201](https://github.com/madlabsinc/mevn-cli/pull/201) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
 <!--END_SECTION:activity-->
-
-</details><br/>
+<br/>
 <br/>
 
 ---
