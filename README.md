@@ -52,7 +52,7 @@
    
  ---
 
-### `:clock10:` Recent Activity
+### :clock10: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/tonyghouse/testspace/pull/3) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
