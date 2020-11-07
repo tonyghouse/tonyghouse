@@ -41,10 +41,12 @@
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-----
+<br/>
 </br>
+
+:zap: Github Stats
+
+  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
@@ -58,11 +60,6 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-:zap: Github Stats
-
-  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
 
 [website]: https://about.me/tonyghouse
 [twitter]: https://twitter.com/tonyghouse
