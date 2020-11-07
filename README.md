@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to cook and play video games
 
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/gbanner.jpg)
 
 
 ### Connect with me:
