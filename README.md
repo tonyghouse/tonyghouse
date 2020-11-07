@@ -25,7 +25,7 @@
 [<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] <br />
 <br />
  
- ---
+ *****
   <br />
 
 ### Languages and Tools:
@@ -46,7 +46,7 @@
 <br />
 <br />
 <br />
- ---
+ *****
 
  <br />
 ### :zap: Github Stats
@@ -58,7 +58,7 @@
 <br />
 <br />
 <br />
- ---
+ *****
 
  <br />
 
