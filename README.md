@@ -5,7 +5,7 @@
 
 ## I'm a Computer science Grad, App developer, Competitive programmer!
 
-- :computer: I’m currently working on a [Personal Projects][gitprojects]!
+- :computer: I’m currently working on [Personal Projects][gitprojects]!
 - :blue_book: I’m currently learning everything
 - :bulb: I’m looking to collaborate with other content creators
 - :dart: 2021 Goals: Contribute more to Open Source projects
@@ -25,7 +25,7 @@
 [<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] <br />
 <br />
  
- *****
+***
   <br />
 
 ### Languages and Tools:
@@ -46,7 +46,7 @@
 <br />
 <br />
 <br />
- *****
+***
 
  <br />
 ### :zap: Github Stats
@@ -58,7 +58,7 @@
 <br />
 <br />
 <br />
- *****
+***
 
  <br />
 
