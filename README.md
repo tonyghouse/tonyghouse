@@ -46,9 +46,10 @@
 <br />
 <br />
 <br />
+ 
 ***
+  <br />
 
- <br />
 ### :zap: Github Stats
  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
 <br />
@@ -58,9 +59,10 @@
 <br />
 <br />
 <br />
+ 
 ***
+  <br />
 
- <br />
 
 ### :clock10: Recent Activity
 
