@@ -62,7 +62,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.tonyghouse.vercel.app/api?username=tonyghouse&show_icons=true&hide_border=true" />
+  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 </details>
 
