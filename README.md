@@ -23,7 +23,7 @@
 [<img align="left" alt="tonyghouse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="tonyghouse | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br/>\s\s
+<br/>
 
 ---
 ### Languages and Tools:
@@ -41,7 +41,7 @@
 <img align="left" alt="Git" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
-<br/>\s\s
+<br/>
 
 ---
 :zap: Github Stats<br/>
@@ -49,7 +49,6 @@
 <br/
 
 ---
-\s\s
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -59,7 +58,6 @@
 4. 🗣 Commented on [#1](https://github.com/tonyghouse/testspace/issues/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 5. 💪 Opened PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 <!--END_SECTION:activity-->
-<br/>
 <br/>
 
 ---
