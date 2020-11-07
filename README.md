@@ -1,7 +1,7 @@
 ### Hi there, I'm Ghouse - aka [TonyGhouse][website] 👋
 
 [![Website](https://img.shields.io/website?label=tonyghouse.com&style=for-the-badge&url=https%3A%2F%2Ftonyghouse.com)](https://about.me/tonyghouse)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tonyghouse?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ftonyghouse&screen_name=tonyghouse)
+[![Twitter Follow](https://img.shields.io/twitter/follow/billgates?color=%231DA1F2&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/tonyghouse)
 
 ## I'm a Computer science Grad, App developer, Competitive programmer!
 
