@@ -14,9 +14,6 @@
 - ⚡ Fun fact: I love to cook and play video games
 
 
-![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/tonybanner.png)
-
-
 ### Connect with me:
 
 [<img align="left" alt="tonyghouse.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
