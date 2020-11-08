@@ -1,4 +1,6 @@
-### Hi there, I'm Ghouse - aka [TonyGhouse][website] 👋
+### Hi there, I'm Ghouse - aka [TonyGhouse][website] 
+
+![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/tonybanner.png)
 
 [![Website](https://img.shields.io/website?color=%2303ef62&down_color=red&down_message=Down&label=Tony%27s%20Blog&style=for-the-badge&up_color=green&up_message=Visit&url=https%3A%2F%2Fabout.me%2Ftonyghouse)](https://about.me/tonyghouse)
 [![Twitter Follow](https://img.shields.io/twitter/follow/billgates?color=%231DA1F2&label=%40tonyghouse&logo=twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/tonyghouse)
