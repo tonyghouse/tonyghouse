@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love to cook and play video games
 
 
-![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/gbanner.jpg)
+![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/tonybanner.jpg)
 
 
 ### Connect with me:
