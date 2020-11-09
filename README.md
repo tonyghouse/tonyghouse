@@ -50,24 +50,18 @@
 ### :zap: Github Stats
  <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 ***
-  
-### :clock10: Recent Activity
+
+<!--### :clock10: Recent Activity
 
 <!--START_SECTION:activity-->
+<!--
 1. 🎉 Merged PR [#3](https://github.com/tonyghouse/testspace/pull/3) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 2. 💪 Opened PR [#2](https://github.com/tonyghouse/testspace/pull/2) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 3. 🎉 Merged PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 4. 🗣 Commented on [#1](https://github.com/tonyghouse/testspace/issues/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
 5. 💪 Opened PR [#1](https://github.com/tonyghouse/testspace/pull/1) in [tonyghouse/testspace](https://github.com/tonyghouse/testspace)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->      
 <br />
 
 [website]: https://about.me/tonyghouse
