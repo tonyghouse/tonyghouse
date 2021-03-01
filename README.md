@@ -11,7 +11,7 @@
 - :blue_book: I’m currently learning everything
 - :bulb: I’m looking to collaborate with other content creators
 - :dart: 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook and play video games
+- ⚡ Fun fact: I love to cook and play video games.
 
 
 ### Connect with me:
