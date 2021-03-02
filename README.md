@@ -1,4 +1,4 @@
-### Hi there, I'm Ghouse - aka [TonyGhouse][website] 
+### Hi there, I'm Kammullu Ghouse - aka [TonyGhouse][website] 
 
 ![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/tonybanner.png)
 
