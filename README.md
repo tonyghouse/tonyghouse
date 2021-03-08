@@ -1,7 +1,7 @@
 ### Hi there, I'm Kammullu Md Ghouse - aka [TonyGhouse][website] 
 
 ![](https://github.com/tonyghouse/tonyghouse/blob/main/assets/tonybanner.png)
-## Software Engineer, App developer, Competitive programmer!
+## Software Engineer, FullStack developer(Java Spring), Competitive programmer!
 
 - :computer: I’m currently working on [Personal Projects][gitprojects]!
 - :blue_book: I’m currently learning everything
