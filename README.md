@@ -1,6 +1,6 @@
 ### Hi there, I'm Kammullu Md Ghouse - aka [TonyGhouse][website] 
 
-## Software Engineer, FullStack developer(Java Spring), Competitive programmer!
+## Computer Science Grad, FullStack developer(Java Spring), Competitive programmer!
 
 - :computer: I’m currently working on [Personal Projects][gitprojects]!
 - :blue_book: I’m currently learning everything
