@@ -59,11 +59,11 @@
 <br />
 
 [website]: https://github.com/tonyghouse
-[twitter]: https://twitter.com/gouse369
-[youtube]: https://youtube.com/gouse369
-[instagram]: https://instagram.com/thegouse369
-[linkedin]: https://linkedin.com/in/kghouse
-[facebook]:https://facebook.com/thegouse369
+[twitter]: https://twitter.com/tonyghouse
+[youtube]: https://youtube.com/tonyghouse
+[instagram]: https://instagram.com/tonyghouse
+[linkedin]: https://linkedin.com/in/tonyghouse
+[facebook]:https://facebook.com/tonyghouse
 [gitprojects]:https://github.com/tonyghouse?tab=repositories
 
 
