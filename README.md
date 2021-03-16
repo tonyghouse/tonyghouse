@@ -1,4 +1,4 @@
-### Hi there, I'm Kammullu Md Ghouse - aka [TonyGhouse][website] 
+### Hi there, I'm Tony Ghouse - aka [TonyGhouse][website] 
 
 ## Computer Science Grad, FullStack developer(Java Spring), Competitive programmer!
 
