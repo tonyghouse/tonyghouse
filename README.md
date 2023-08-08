@@ -1,70 +1,176 @@
-### Hi there, I'm Tony Ghouse - aka [TonyGhouse][website] 
+### Ahoy, I'm Ghouse - aka [TonyGhouse][website]
 
-## Computer Science Grad, FullStack developer(Java Spring), Competitive programmer!
+## Backend Engineer, CS Grad
 
-- :computer: I’m currently working on [Personal Projects][gitprojects]!
-- :blue_book: I’m currently learning everything
-- :bulb: I’m looking to collaborate with other content creators
-- :dart: 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to cook and play video games.
-
+- :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
+- :blue_book: I’m currently focusing on improving the performance & scalability of backend apps
+- :bulb: I’m looking to collaborate with other devs
+- :dart: 2023 Goals: Contribute more to Open source projects & Build personal projects
+- ⚡ Fun fact: I love to cook and play video games
 
 ### Connect with me:
+<div align="left">
+<table>
+<tr>
+<td >
+<a href="https://tonyghouse.com" target="_blank">
+ <img src="./assets/icons/website.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
+ <img src="./assets/icons/email.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://linkedin.com/in/tonyghouse" target="_blank">
+ <img src="./assets/icons/linkedin.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://twitter.com/tonyghouse" target="_blank">
+ <img src="./assets/icons/twitter.png" style=" height:3rem; width:3rem;">
+</a>
+<a href="https://dev.to/tonyghouse" target="_blank">
+ <img src="./assets/icons/devto.png" style=" height:3rem; width:3rem;">
+</a>
+</td>
+</tr>                                                                
+</table> 
 
-[<img align="left" alt="tonyghouse.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="tonyghouse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="tonyghouse | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="tonyghouse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="tonyghouse | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="tonyghouse | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook] <br />
-<br />
+### Skills
+<div align="left">
+<table>
+<tr>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;" style="padding-top: 0rem;">Languages: </h4>
+<div class="languages" align="left">
+ <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
+ <img  src="./assets/icons/golang.png" style=" height:3rem; width:3rem;" />
+</div>
+</td>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;">Backend: </h4>
+<div class="backend" align="left">
+<img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
+<img src="./assets/icons/go-fiber.png" style=" height:3rem; width:4rem;" />
+</div>
+</td>
+</tr> 
+<tr>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;">Frontend: </h4>
+<div class="frontend" align="left">
+ <img src="./assets/icons/html.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/css.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/reactjs.png" style=" height:3rem; width:3rem;" />
+</div>
+</td>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;">Database:</h4>
+<div class="database" align="left">
+ <img src="./assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
+</div>
+</td>
+</tr>  
+<tr>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;">Misc Backend : </h4>
+<div class="misc-backend" align="left">
+ <img src="./assets/icons/redis.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/meilisearch.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/graphql.png" style=" height:3rem; width:3rem;" />
+</div>
+</td>
+<td width="50%">
+<h4 align="left" style="padding-top: 0rem;">Tools:</h4>
+<div class="misc-tools" align="left">
+ <img src="./assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/git.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/docker.png" style=" height:3rem; width:3rem;" />
+ <img src="./assets/icons/kubernetes.png" style=" height:3rem; width:3rem;" />
+</div>
+</td>
+</tr>                                                               
+</table> 
+
+### Open-source contributions
+<div align="left">
+<table>
+<tr>
+<td width="33%">
+<h3 align="left">meilisearch-java</h3>
+<div align="left">
+<p> Code contributions in meilisearch </p>
+<p> Few contributions with old github account (ghousek1) </p>
+<a href="https://github.com/meilisearch/meilisearch-java" target="_blank">
+<img src="./assets/icons/meilisearch.png" style="width: 7rem;"></a>
+<p>
+</p>
+</div>
+</td>
+
+</tr>                                                                
+</table> 
+
+### Featured Personal Projects
+<div align="left">
+<table>
+<tr>
+<td width="33%">
+<h3 align="left">Memoirist</h3>
+<div align="left">
+<a href="https://github.com/tonyghouse/memoirist" target="_blank">
+<img src="./assets/icons/github.png" style="width: 7rem;"></a>
+<p>
+<a href="https://github.com/tonyghouse/memoirist" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/tonyghouse/memoirist" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong> Day logging tool</strong></p>
+<p>Java,React, Kafka, Meilisearch</p>
+</div>
+</td>
+
+
+<td width="33%">                                                                                     
+<h3 align="left">Viscody</h3>
+<div align="left">
+<a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
+<p>
+<a href="https://github.com/tonyghouse/viscody" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
+</a>
+<a href="https://github.com/tonyghouse/viscody" target="_blank">
+<img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=d1ed58">
+</a>
+</p>
+<p><strong>Data visualization tool</strong> </p>
+<p>React Tailwind</p>
+</div>
+</td>
+</tr>                                                                
+</table>   
+
+### Github Stats
+
+ <div id="stats" width="100%" style="display: flex; align:left;">
+  <div width="100%" align="left" style="flex: 1;">
+   
+   [<img src="https://github-readme-stats.vercel.app/api?username=tonyghouse&theme=highcontrast&show_icons=true&hide_border=true">][github]
+   
+  </div>
  
-***
-  
-### Languages and Tools:
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Java" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/java.png" />
-<img align="left" alt="spring" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/spring.png" />
-<img align="left" alt="hibernate" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/hibernate.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/mysql.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+ </div>
 
-<img align="left" alt="Git" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/github.png" />
-<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <br />
-<br />
-<br />
-<br />
- 
-***
-  
-### :zap: Github Stats
- <img align="left" alt="tonyghouse's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tonyghouse&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /> <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-***
-
-       
-<br />
-
-[website]: https://github.com/tonyghouse
-[twitter]: https://twitter.com/tonyghouse
-[youtube]: https://youtube.com/tonyghouse
-[instagram]: https://instagram.com/tonyghouse
+[email]: mailto:tonyghouseofficial@gmail.com
+[website]: https://tonyghouse.com
 [linkedin]: https://linkedin.com/in/tonyghouse
-[facebook]:https://facebook.com/tonyghouse
-[gitprojects]:https://github.com/tonyghouse?tab=repositories
-
-
-
+[twitter]: https://twitter.com/tonyghouse
+[reddit]: https://reddit.com/u/tonyghouse
+[devto]: https://dev.to/tonyghouse
+[github]: https://github.com/tonyghouse?tab=repositories
+[gitprojects]: https://github.com/tonyghouse?tab=repositories
+[meilisearch]: https://github.com/meilisearch/meilisearch-java
+                                                                              
+</div>                                                                                    
