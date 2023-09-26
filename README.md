@@ -1,6 +1,7 @@
 ### Ahoy, I'm Ghouse - aka [TonyGhouse][website]
 
 ## Backend Engineer, CS Grad
+### [Resume/CV][resume]
 
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
 - :blue_book: I’m currently focusing on improving the performance & scalability of backend apps
@@ -40,14 +41,14 @@
 <h4 align="left" style="padding-top: 0rem;" style="padding-top: 0rem;">Languages: </h4>
 <div class="languages" align="left">
  <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
- <img  src="./assets/icons/golang.png" style=" height:3rem; width:3rem;" />
+ <img  src="./assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Backend: </h4>
 <div class="backend" align="left">
 <img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
-<img src="./assets/icons/go-fiber.png" style=" height:3rem; width:4rem;" />
+<img src="./assets/icons/nodejs.png" style=" height:3rem; width:4rem;" />
 </div>
 </td>
 </tr> 
@@ -150,18 +151,7 @@
 </div>
 </td>
 </tr>                                                                
-</table>   
-
-### Github Stats
-
- <div id="stats" width="100%" style="display: flex; align:left;">
-  <div width="100%" align="left" style="flex: 1;">
-   
-   [<img src="https://github-readme-stats.vercel.app/api?username=tonyghouse&theme=highcontrast&show_icons=true&hide_border=true">][github]
-   
-  </div>
- 
- </div>
+</table>
 
 [email]: mailto:tonyghouseofficial@gmail.com
 [website]: https://tonyghouse.com
@@ -172,5 +162,6 @@
 [github]: https://github.com/tonyghouse?tab=repositories
 [gitprojects]: https://github.com/tonyghouse?tab=repositories
 [meilisearch]: https://github.com/meilisearch/meilisearch-java
+[resume]: ./assets/files/Ghouse_Resume.pdf
                                                                               
 </div>                                                                                    
