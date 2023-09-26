@@ -15,19 +15,19 @@
 <tr>
 <td >
 <a href="https://tonyghouse.com" target="_blank">
- <img src="./assets/icons/website.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/website.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
- <img src="./assets/icons/email.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/email.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://linkedin.com/in/tonyghouse" target="_blank">
- <img src="./assets/icons/linkedin.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/linkedin.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://twitter.com/tonyghouse" target="_blank">
- <img src="./assets/icons/twitter.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/twitter.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://dev.to/tonyghouse" target="_blank">
- <img src="./assets/icons/devto.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/devto.png" style=" height:3rem; width:3rem;">
 </a>
 </td>
 </tr>                                                                
@@ -40,15 +40,15 @@
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;" style="padding-top: 0rem;">Languages: </h4>
 <div class="languages" align="left">
- <img  src="./assets/icons/java.png" style=" height:3rem; width:3rem;" />
- <img  src="./assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
+ <img  src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/java.png" style=" height:3rem; width:3rem;" />
+ <img  src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Backend: </h4>
 <div class="backend" align="left">
-<img src="./assets/icons/spring.png" style=" height:3rem; width:3rem;" />
-<img src="./assets/icons/nodejs.png" style=" height:3rem; width:4rem;" />
+<img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/spring.png" style=" height:3rem; width:3rem;" />
+<img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/nodejs.png" style=" height:3rem; width:4rem;" />
 </div>
 </td>
 </tr> 
@@ -56,17 +56,17 @@
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Frontend: </h4>
 <div class="frontend" align="left">
- <img src="./assets/icons/html.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/css.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/reactjs.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/html.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/css.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/javascript.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/reactjs.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Database:</h4>
 <div class="database" align="left">
- <img src="./assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/postgresql.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/mongodb.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 </tr>  
@@ -74,19 +74,19 @@
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Misc Backend : </h4>
 <div class="misc-backend" align="left">
- <img src="./assets/icons/redis.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/meilisearch.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/graphql.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/redis.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/kafka.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/meilisearch.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/graphql.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 <td width="50%">
 <h4 align="left" style="padding-top: 0rem;">Tools:</h4>
 <div class="misc-tools" align="left">
- <img src="./assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/git.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/docker.png" style=" height:3rem; width:3rem;" />
- <img src="./assets/icons/kubernetes.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/terminal.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/git.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/docker.png" style=" height:3rem; width:3rem;" />
+ <img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/kubernetes.png" style=" height:3rem; width:3rem;" />
 </div>
 </td>
 </tr>                                                               
@@ -102,7 +102,7 @@
 <p> Code contributions in meilisearch </p>
 <p> Few contributions with old github account (ghousek1) </p>
 <a href="https://github.com/meilisearch/meilisearch-java" target="_blank">
-<img src="./assets/icons/meilisearch.png" style="width: 7rem;"></a>
+<img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/meilisearch.png" style="width: 7rem;"></a>
 <p>
 </p>
 </div>
@@ -119,7 +119,7 @@
 <h3 align="left">Memoirist</h3>
 <div align="left">
 <a href="https://github.com/tonyghouse/memoirist" target="_blank">
-<img src="./assets/icons/github.png" style="width: 7rem;"></a>
+<img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/github.png" style="width: 7rem;"></a>
 <p>
 <a href="https://github.com/tonyghouse/memoirist" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -137,7 +137,7 @@
 <td width="33%">                                                                                     
 <h3 align="left">Viscody</h3>
 <div align="left">
-<a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="./assets/icons/github.png" style="width: 7rem;"></a>
+<a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="https://github.com/tonyghouse/tonyghouse/tree/main/assets/icons/github.png" style="width: 7rem;"></a>
 <p>
 <a href="https://github.com/tonyghouse/viscody" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
