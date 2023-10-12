@@ -18,7 +18,7 @@
  <img src="https://picsum.photos/id/237/200/300" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://tonyghouse.com" target="_blank">
- <img src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/icons/android.png" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse/blob/main/assets/icons/android" style=" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
  <img src="https://raw.githubusercontent.com/tonyghouse/tonyghouse/main/assets/icons/svg/email.svg" style=" height:3rem; width:3rem;">
