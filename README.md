@@ -16,7 +16,7 @@
 <td >
 
 <a href="https://tonyghouse.com" target="_blank">
- <img src="./assets/icons/svg/website.svg" style=" height:3rem; width:3rem;">
+ <img src="https://github.com/tonyghouse/tonyghouse.github.io/blob/master/src/assets/icons/website.png" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
  <img src="./assets/icons/svg/email.svg" style=" height:3rem; width:3rem;">
