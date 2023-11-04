@@ -16,19 +16,19 @@
 <td >
 
 <a href="https://tonyghouse.com" target="_blank">
- <img src="https://github.com/tonyghouse/tonyghouse.github.io/blob/master/src/assets/icons/website.png" height:3rem; width:3rem;">
+ <img src="https://imgur.com/tkHdNZ5" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
- <img src="./assets/icons/svg/email.svg" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/nqb4Dei" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://linkedin.com/in/tonyghouse" target="_blank">
- <img src="./assets/icons/svg/linkedin.svg" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/vWtkuDt" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://twitter.com/tonyghouse" target="_blank">
- <img src="./assets/icons/svg/twitter.svg" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/JrUPgDO" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://dev.to/tonyghouse" target="_blank">
- <img src="./assets/icons/svg/devto.svg" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/74HbRWy" style=" height:3rem; width:3rem;">
 </a>
 </td>
 </tr>                                                                
