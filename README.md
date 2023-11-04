@@ -117,7 +117,7 @@
 <p> Code contributions in meilisearch-go </p>
 <p> Few contributions with old github account (ghousek1) </p>
 <a href="https://github.com/meilisearch/meilisearch-go" target="_blank">
-<img src="https://i.imgur.com/MipR564.png" style="width: 7rem;"></a>
+<img src="https://i.imgur.com/MipR564.png" style="height: 4rem; width: 4rem;"></a>
 <p>
 </p>
 </div>
@@ -129,11 +129,11 @@
 <div align="left">
 <table>
 <tr>
-<td width="33%">
+<td width="80%">
 <h3 align="left">Memoirist</h3>
 <div align="left">
 <a href="https://github.com/tonyghouse/memoirist" target="_blank">
-<img src="https://i.imgur.com/HORIxZj.png" style="width: 7rem;"></a>
+<img src="https://i.imgur.com/HORIxZj.png" style="height: 4rem; width: 4rem;" ></a>
 <p>
 <a href="https://github.com/tonyghouse/memoirist" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -148,7 +148,7 @@
 </td>
 
 
-<td width="33%">                                                                                     
+<td width="80%">                                                                                     
 <h3 align="left">Viscody</h3>
 <div align="left">
 <a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="https://i.imgur.com/HORIxZj.png" style="width: 7rem;"></a>
