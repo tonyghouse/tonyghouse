@@ -129,7 +129,7 @@
 <div align="left">
 <table>
 <tr>
-<td width="80%">
+<td width="40%">
 <h3 align="left">Memoirist</h3>
 <div align="left">
 <a href="https://github.com/tonyghouse/memoirist" target="_blank">
@@ -148,10 +148,10 @@
 </td>
 
 
-<td width="80%">                                                                                     
+<td width="40%">                                                                                     
 <h3 align="left">Viscody</h3>
 <div align="left">
-<a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="https://i.imgur.com/HORIxZj.png" style="width: 7rem;"></a>
+<a href="https://github.com/tonyghouse/viscody" target="_blank"><img src="https://i.imgur.com/HORIxZj.png" style="height: 4rem; width: 4rem;"></a>
 <p>
 <a href="https://github.com/tonyghouse/viscody" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"">
