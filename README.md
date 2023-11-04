@@ -1,4 +1,4 @@
-### Ahoy, I'm Ghouse - aka [TonyGhouse][website]
+###  I'm Ghouse - aka [TonyGhouse][website]
 
 ## Backend Engineer, CS Grad
 ### [Resume/CV][resume]
@@ -16,7 +16,7 @@
 <td >
 
 <a href="https://tonyghouse.com" target="_blank">
- <img src="https://imgur.com/tkHdNZ5" height:3rem; width:3rem;">
+ <img src="https://i.imgur.com/tkHdNZ5.png" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
  <img src="https://imgur.com/nqb4Dei" style=" height:3rem; width:3rem;">
