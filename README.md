@@ -16,19 +16,19 @@
 <td >
 
 <a href="https://tonyghouse.com" target="_blank">
- <img src="https://i.imgur.com/tkHdNZ5.png" height:3rem; width:3rem;">
+ <img src="https://i.imgur.com/tkHdNZ5.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="mailto:tonyghouseofficial@gmail.com" target="_blank">
- <img src="https://imgur.com/nqb4Dei" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/nqb4Dei.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://linkedin.com/in/tonyghouse" target="_blank">
- <img src="https://imgur.com/vWtkuDt" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/vWtkuDt.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://twitter.com/tonyghouse" target="_blank">
- <img src="https://imgur.com/JrUPgDO" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/JrUPgDO.png" style=" height:3rem; width:3rem;">
 </a>
 <a href="https://dev.to/tonyghouse" target="_blank">
- <img src="https://imgur.com/74HbRWy" style=" height:3rem; width:3rem;">
+ <img src="https://imgur.com/74HbRWy.png" style=" height:3rem; width:3rem;">
 </a>
 </td>
 </tr>                                                                
