@@ -1,7 +1,6 @@
 ###  I'm Ghouse - aka [TonyGhouse][website]
 
 ## Backend Engineer, CS Grad
-### [Resume/CV][resume]
 
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
 - :blue_book: I’m currently focusing on improving the performance & scalability of backend apps
@@ -98,9 +97,9 @@
 <table>
 <tr>
 <td width="80%">
-<h3 align="left">meilisearch-java</h3>
+<h3 align="left">meilisearch-java  </h3>
 <div align="left">
-<p> Code contributions in meilisearch-java </p>
+<p> Code contributions in meilisearch-java</p>
 <p> Few contributions with old github account (ghousek1) </p>
 <a href="https://github.com/meilisearch/meilisearch-java" target="_blank">
 <img src="https://i.imgur.com/MipR564.png" style="width: 7rem;"></a>
@@ -167,6 +166,8 @@
 </tr>                                                                
 </table>
 
+
+
 [email]: mailto:tonyghouseofficial@gmail.com
 [website]: https://tonyghouse.com
 [linkedin]: https://linkedin.com/in/tonyghouse
@@ -176,6 +177,5 @@
 [github]: https://github.com/tonyghouse?tab=repositories
 [gitprojects]: https://github.com/tonyghouse?tab=repositories
 [meilisearch]: https://github.com/meilisearch/meilisearch-java
-[resume]: ./assets/files/Ghouse_Resume.pdf
                                                                               
 </div>                                                                                    
