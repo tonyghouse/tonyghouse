@@ -5,7 +5,7 @@
 - :computer: I’m currently working on [Personal projects (public & private)][gitprojects]
 - :blue_book: I’m currently focusing on improving the performance & scalability of backend apps
 - :bulb: I’m looking to collaborate with other devs
-- :dart: 2023 Goals: Contribute more to Open source projects & Build personal projects
+- :dart: 2025 Goals: Contribute more to Open source projects & Build personal projects
 - ⚡ Fun fact: I love to cook and play video games
 
 ### Connect with me:
